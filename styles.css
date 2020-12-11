@@ -1,0 +1,23 @@
+body{
+  background-color: #ffb396;
+  padding-top: 5rem;
+}
+form{
+  background-color: #ffe0d8;
+}
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+    padding-right: 5rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
+
+input{
+    margin: .4rem 0;
+}
+div{
+  padding-top: 0;
+  border-style: groove;
+  border-color: black;
+  width: 50%;
+}

@@ -1,0 +1,16 @@
+body{
+  background-color: #ffb396;
+  padding-top: 1rem;
+}
+h3{
+  margin: 0 35% 0;
+  font-size: 2rem;
+}
+table{
+  margin: 5% 30% auto;
+}
+td{
+  font-weight: bolder;
+  font-size: 1.25rem;
+  padding: 0 1rem;
+}
